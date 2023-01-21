@@ -27,7 +27,7 @@ We welcome contributions to the TrueLink AI Database repository. If you want to 
 The TrueLink AI Database repository is released under the MIT License.
 
 ### Contact
-For any question or support regarding the TrueLink AI Database repository please open an issue on this repository or contact us at truetech@truelink.io
+For any question or support regarding the TrueLink AI Database repository please open an issue on this repository or contact us at aitruelink01@gmail.com
 
 ### Disclaimer
 Please note that this is a beta release, and some features may not be fully functional, and there may be bugs or issues that need to be addressed. Our team is committed to resolving these issues and improving the platform before the official launch.
